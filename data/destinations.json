@@ -1,0 +1,26 @@
+[
+  {
+    "city": "Bali",
+    "country": "Indonesia",
+    "lat": -8.3405,
+    "lon": 115.0920
+  },
+  {
+    "city": "Kyoto",
+    "country": "Japan",
+    "lat": 35.0116,
+    "lon": 135.7681
+  },
+  {
+    "city": "Santorini",
+    "country": "Greece",
+    "lat": 36.3932,
+    "lon": 25.4615
+  },
+  {
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "lat": 64.1466,
+    "lon": -21.9426
+  }
+]

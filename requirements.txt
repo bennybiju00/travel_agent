@@ -1,0 +1,14 @@
+# Project dependencies
+fastapi
+uvicorn
+requests
+pandas
+python-dotenv
+openai
+langchain
+sentence-transformers
+faiss-cpu
+apscheduler
+pydantic
+rich
+google-generativeai
